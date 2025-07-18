@@ -39,7 +39,7 @@ src/
      │           ├── CustomerRepository.java
      │           └── CustomerService.java
      └── resources/
-         ├── templates/ (if used)
+         ├── templates/
          ├── static/
          └── application.properties
 ```
@@ -87,7 +87,7 @@ The `Output/` folder contains screenshots of various UI components like:
 ## 🙋 Author
 
 **Sathish**\
-Capstone Project | Java Developer
+Capstone Project | Java Full Stack Developer
 
 ---
 
