@@ -49,7 +49,7 @@ src/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/capstone-bank.git
+git clone https://github.com/sathishmadem123/capstone-bank.git
 cd capstone-bank
 ```
 
