@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+<meta charset="UTF-8">
+<title th:text="${pageTitle}"></title>
+<style>
+	a:hover {
+		color: black;
+	}
+</style>
+</head>
+<body bgcolor=lightgreen>
+	<h1 th:text="${heading}"></h1>
+	<h3 th:text="${message}"></h3>
+	<a th:href="${hLink}" th:text="${linkText}"></a>
+</body>
+</html>
